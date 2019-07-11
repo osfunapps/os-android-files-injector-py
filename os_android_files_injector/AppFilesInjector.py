@@ -1,4 +1,4 @@
-import ostools.LoggerHandler as lh
+import os_tools.LoggerHandler as lh
 import os_android_files_injector.AppFilesInjectorBp as bp
 
 
