@@ -10,7 +10,7 @@ setup(
     author_email='osfunapps@gmail.com',  # Type in your E-Mail
     url='https://github.com/osfunapps/os-xcode-tools-py',  # Provide either the link to your github or to your website
     keywords=['python', 'osfunapps', 'files', 'xcode', 'apple', 'ios', 'tools', 'utils'],  # Keywords that define your package best
-    install_requires=['pbxproj', 'os_tools'],
+    install_requires=[],
     dependency_links=['http://github.com/user/repo/tarball/master#egg=package-1.0'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',  # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
