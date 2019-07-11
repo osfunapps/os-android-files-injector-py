@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-Thi script will inject:
+This script will inject:
 * strings.xml
 * google-services.json
 * logo.png 

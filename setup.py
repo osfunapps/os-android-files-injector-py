@@ -3,14 +3,14 @@ from distutils.core import setup
 setup(
     name='os-android-files-injector',
     packages=['os_android_files_injector'],
-    version='1.0',
+    version='1.1',
     license='MIT',
     description='Will inject strings.xml, google-services.json, logo.png, assets and more files into an android app programmatically (dynamically)',
     author='Oz Shabat',
     author_email='osfunapps@gmail.com',
-    url='https://github.com/osfunapps',
+    url='https://github.com/osfunapps/os-android-files-injector-py',
     keywords=['python', 'osfunapps', 'injector', 'android', 'files', 'strings', 'logo', 'assets'],
-    install_requires=['ostools'],
+    install_requires=[],
     classifiers=[
         'Development Status :: 5 - Production/Stable',  # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
 
