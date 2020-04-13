@@ -1,4 +1,4 @@
-import os_tools.FileHandler as fh
+import os_tools.file_handler as fh
 
 
 # this is just a boiler plate script for the files injector.

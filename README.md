@@ -16,7 +16,7 @@ Install via pip:
 ## Usage       
 From Python:
     
-    import os_android_files_injector.AppFilesInjector as fi
+    import os_android_files_injector.app_files_injector as fi
     
     fi.run('/path/to/android/project',
            '/path/to/strings.xml',
@@ -27,7 +27,7 @@ From Python:
   
 Or from the command line:
 
-    python3 -c 'import os_android_files_injector.AppFilesInjector as fi; 
+    python3 -c 'import os_android_files_injector.app_files_injector as fi; 
     fi.run("/path/to/android/app",
            "/path/to/strings.xml",
            "/path/to/logo.png",

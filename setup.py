@@ -2,8 +2,8 @@ from distutils.core import setup
 
 setup(
     name='os_android_files_injector',
-    packages=['os_android_files_injector'],
-    version='1.04',  # Start with a small number and increase it with every change you make
+    packages=['os_android_files_injector', 'os_android_files_injector.modules'],
+    version='1.05gi',  # Start with a small number and increase it with every change you make
     license='MIT',  # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     description='a bunch of tools for python xcode project development ',  # Give a short description about your library
     author='Oz Shabat',  # Type in your name

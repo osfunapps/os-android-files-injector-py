@@ -1,5 +1,5 @@
-import os_tools.LoggerHandler as lh
-import os_android_files_injector.AppFilesInjectorBp as bp
+import os_tools.logger_handler as lh
+import os_android_files_injector.modules.app_files_injector_boilerplate as bp
 
 
 ##################################################################################
